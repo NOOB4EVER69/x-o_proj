@@ -1,0 +1,116 @@
+body {
+    background-color: rgb(37, 37, 37);
+}
+
+.f2 {
+    margin-top: 130px;
+    margin-left: 465px;
+}
+
+
+.content {
+    margin-top: -170px;
+    margin-left: 560px;
+}
+
+.ddd {
+    margin-top: -57px;
+    margin-left: 40px;
+}
+
+
+
+.test {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.test1 {
+    margin-top: -58px;
+    margin-left: 150px;
+}
+
+.test2 {
+    margin-top: -58px;
+    margin-left: 250px;
+}
+
+.test3 {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+
+.test4 {
+    margin-top: -57px;
+    margin-left: 150px;
+}
+
+
+
+.test5 {
+    margin-top: -59px;
+    margin-left: 250px;
+}
+
+
+
+.test6 {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+
+
+.test7 {
+    margin-top: -58px;
+    margin-left: 150px;
+}
+
+
+
+.test8 {
+    margin-top: -59px;
+    margin-left: 250px;
+}
+
+
+h1 {
+    -webkit-user-select: none;
+    color: whitesmoke;
+    user-select: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
+.res {
+    margin-top: 70px;
+    margin-left: 70px;
+
+}
+
+.x {
+    margin-top: 0px;
+    margin-left: 30px;
+}
+
+.o {
+    margin-top: -200px;
+    margin-left: 1155px;
+}
+
+.o-sc {
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.x-sc {
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+p {
+
+    margin-top: 100px;
+}
